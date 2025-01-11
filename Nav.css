@@ -1,0 +1,289 @@
+   
+     @font-face {
+   font-family: Retro;
+   src: url(Chunky.ttf);
+   }
+@font-face {
+font-family:hi;
+   src: url(hi.ttf);
+   }
+   @font-face {
+   font-family: aqila;
+   src: url(fonts/aqila.ttf);
+   }
+   
+      @font-face {
+   font-family: astrena;
+   src: url(fonts/astrena.ttf);
+   }
+   
+     @font-face {
+   font-family: chairman;
+   src: url(fonts/chairman.ttf);
+   }
+   
+    @font-face {
+   font-family: lunery;
+   src: url(fonts/LUNERY.ttf);
+   }
+   
+   @font-face {
+   font-family: krismas;
+   src: url(fonts/krismas.ttf);
+   }
+   @font-face {
+   font-family: futura;
+   src: url(fonts/futura.ttf);
+   }
+   
+   
+   
+   
+*{
+    margin:0;
+    padding:0;
+   }
+
+
+.Nav{
+    background-color:#2D7076;
+    width:100%;
+    height:50%;
+    top:100px;
+    -webkit-background-size: cover;
+        text-align:center;
+    background-position:center center;
+    font-family:futura;
+    font-size:13px;
+    }
+    
+.fa-address-book{
+    color:white;
+}
+
+.fa-location-dot{
+    color:white;
+}
+    
+.fa-envelope{
+    color:white;
+}
+    
+.school{
+    color:rgb(233, 168, 168);
+    top:100px;
+    line-height:2;
+}
+
+.home{
+    background-color:#1D5C60;
+}
+    .Daia h1{
+        color:white;
+        font-family:aqila;
+        padding:30px;
+        font-size:50px;
+
+    }
+
+     
+      
+    
+    .down{
+        padding:5px;
+    }
+    
+    .down p{
+        color:#FF6648;
+        font-family:futura;
+        text-align:center;
+        font-size:20px;
+    }
+    .down h1{
+        font-family:futura;
+        text-align:center;
+        color:white;
+        font-size:30px;
+    }
+    .p1 p{
+        color:white;
+        text-align:center;
+        font-family:futura;
+    }
+    
+    .p1{
+        letter-spacing:0.4px;
+        padding:5px;
+    }
+    
+    .bottom{
+        background-color:#F3F7F7;
+        padding:5px;
+           padding-top:7%
+    }
+
+.bottom h6{
+    color:#FF6648;
+        text-align:center;
+        font-family:futura;
+        font-size:15px;
+}
+
+
+.bottom h3{
+    color:black;
+        text-align:center;
+        font-family:futura;
+        font-size:20px;
+}
+
+.theory{
+    vertical-align: middle;
+  width: 80%;
+  height: 110%;
+  border-radius: 10%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container h1{
+    text-align:center;
+    font-family:lunery;
+    color:white;
+}
+
+.container{
+    width: 60%;
+  height: 230%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#1BC9B6;
+}
+
+.red-string h1{
+    font-family:astrena;
+    color:#1D5C60;
+    text-align:center;
+    font-size:60px;
+}
+.red-string p{
+    font-family:futura;
+     padding:5px;
+     text-align:center;
+}
+
+.karla{
+    vertical-align: middle;
+  width: 80%;
+  height: 110%;
+  border-radius: 10%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.space{
+    background-color:#FF6648;
+    
+}
+.lastly{
+    background-color:#1D5C60;
+    padding:20px;
+}
+    .lastly h1{
+        font-family:futura;
+        text-align:center;
+        color:white;
+        font-size:25px;
+        
+    }
+
+.lastly h6{
+    color:#FF6648;
+        text-align:center;
+        font-family:futura;
+        font-size:20px;
+}
+
+.container2{
+    width: 50%;
+  height: 22px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#1BC9B6;
+}
+
+.container2 h2{
+      font-family:futura;
+        text-align:center;
+        color:white;
+        font-size:15px;
+}
+
+
+.dulo{
+    background-color:#FFFFFF;
+    padding:5px;
+    text-align:center;
+}
+
+.down h2{
+    font-family:aqila;
+}
+
+.us{
+    width:25%;
+    height:25%;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.dulo h3{
+    font-family:krismas;
+    color:#1D5C60;
+    font-size:30px;
+}
+
+
+.baba{
+background-color:#F3F7F7;
+padding:10%;
+}
+
+.baba h1{
+    color:black;
+        font-family:aqila;
+        padding:10px;
+        text-align:center;
+        font-size:50px;
+}
+.baba p{
+    text-align:center;
+    color:#848585;
+    font-family:futura;
+}
+
+.space2{
+    background-color:#0D5C63;
+}
+
+.space2 p{
+    color:white;
+    font-family:futura;
+    text-align:center;
+}
+ .us{
+padding:11px;
+ }
+
+.us img{
+    border:20px solid red;
+}
+
+
+
+
+
+
